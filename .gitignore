@@ -1,0 +1,16 @@
+node_modules/
+dist/
+coverage/
+cdk.out/
+*.tsbuildinfo
+.vite/
+
+# Local env and credentials: never commit (ISO A.5.17 / A.8.4)
+.env
+.env.*
+!.env.example
+*.pem
+.aws/
+
+.DS_Store
+*.log
