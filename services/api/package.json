@@ -8,6 +8,6 @@
     "test": "vitest run"
   },
   "dependencies": {
-    "hono": "^4.13.14"
+    "hono": "^4.13.17"
   }
 }
